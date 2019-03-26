@@ -18,10 +18,9 @@
     height: 100%;
 }
 
-.bilde{
-    background-image: url(../img/lars-martin.jpeg);
+.bilde img{
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left top;
 }
 
 #main-header .port-item{
